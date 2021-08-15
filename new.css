@@ -1,0 +1,25 @@
+img {
+height:300px;
+width:400px;
+border:8px solid red;
+}
+
+span{
+font-size:48px;
+font-weight:bold;
+color:darkred;
+}
+
+body{
+background:lightblue;
+}
+
+b{
+font-size:30px;
+color:purple;
+}
+
+em{
+font-size:30px;
+color:darkgreen;
+}
