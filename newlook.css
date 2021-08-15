@@ -1,0 +1,26 @@
+body{
+background:lightblue;
+}
+
+h1{
+font-size:42px;
+color:darkblue;
+text-align:center;
+}
+
+p{
+color:darkgreen;
+font-size:28px;
+font-weight:bold;
+}
+
+img{
+height:600px;
+width:700px;
+border:8px solid orange;
+}
+
+b{
+font-size:30px;
+color:pink;
+}
